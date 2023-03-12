@@ -28,7 +28,7 @@ NO
 
 ## Implementation
 
-Consider each word might contain 100 characters. Nested loop `O(n2)` is not an efficient way for to search for elements in an array or a string if the array or string is large. try to use Binary Search to reduce the step if the second word having many repeart characters or both words are having 100 characters.
+Consider each word might contain 100 characters. Nested loop `O(n2)` is not an efficient way for to search for elements in an array or a string if the array or string is large. try to use Binary Search `O(log n)` to reduce the step if the second word having many repeart characters or both words are having 100 characters. 
 
 ## How to start
 
